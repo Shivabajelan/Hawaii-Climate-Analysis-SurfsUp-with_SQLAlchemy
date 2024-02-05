@@ -1,5 +1,5 @@
 # Hawaii-Climate-Analysis-SurfsUp-with_SQLAlchemy
-In this project, I analyzed and explored the climate of Honolulu, Hawaii using Python, SQLAlchemy, Pandas, and Matplotlib. The goal was to help with trip planning by conducting a climate analysis of the area.
+In this project, I analysed and explored the climate of Honolulu, Hawaii using Python, SQLAlchemy, Pandas, and Matplotlib. The goal was to help with trip planning by conducting a climate analysis of the area.
 
 ## Project Overview
 I divided the project into two main parts:
@@ -13,7 +13,7 @@ I performed a station analysis to calculate the total number of stations and fin
 #### Part 2: Design a Climate App
 
 I designed a Flask API based on the queries developed in Part 1.
-I created routes for precipitation, stations, temperature observations, and specified date ranges.
+I created static routes for precipitation, stations, temperature observations, and two other dynamic routs for specified date ranges.
 
 ## Requirements
 
